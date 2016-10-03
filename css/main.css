@@ -34,7 +34,7 @@ footer{
 
 nav, nav a{
   text-decoration: none;
-  color: #296785;
+  color: white;
   margin-bottom: .25em;
   margin-top: .25em;
   display: inline-block;
@@ -62,6 +62,9 @@ a:hover{
   margin-top: .25em;
 }
 
+header{
+  background-color: #a0a0a0;
+}
 
 .banner{
   background-image: url(../assets/three-eyed-cat.png);
@@ -70,7 +73,7 @@ a:hover{
   padding: 6em;
   text-align: center;
   color: white;
-  background-color: #296785;
+  background-color: #a0a0a0;
 }
 
 .box{
