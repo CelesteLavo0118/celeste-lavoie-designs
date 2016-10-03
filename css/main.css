@@ -1,0 +1,123 @@
+html{
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+ul{
+  text-align: center;
+}
+
+footer{
+  padding: 1em;
+  margin-top: 1em;
+  color: #296785;
+}
+
+.sign{
+  background: #296785;
+  padding: 1.5em;
+  margin-top: 1em;
+}
+
+.logo{
+  width: 4em;
+  padding: .5rem;
+  display: block;
+  margin: 0 auto;
+}
+
+#ghost{
+  max-width: 350px;
+  margin: 0 auto;
+  padding-top: 1.5em;
+  width: 100%;
+}
+
+nav, nav a{
+  text-decoration: none;
+  color: #296785;
+  margin-bottom: .25em;
+  margin-top: .25em;
+  display: inline-block;
+  padding: .5rem;
+}
+
+nav a:hover{
+  text-decoration: none;
+  color: #AFCCD2;
+  margin-bottom: .25em;
+  margin-top: .25em;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  margin-bottom: .25em;
+  margin-top: .25em;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #AFCCD2;
+  margin-bottom: .25em;
+  margin-top: .25em;
+}
+
+
+.banner{
+  background-image: url(../assets/three-eyed-cat.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 6em;
+  text-align: center;
+  color: white;
+  background-color: #296785;
+}
+
+.box{
+  background-color: #296785;
+  padding: 1em;
+  color: white;
+}
+
+#contact{
+  margin-top: 1em;
+}
+
+.content{
+  padding-top: 1.5em;
+}
+
+.padding-form{
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+h1{
+  font-size: 5em;
+}
+
+footer{
+  text-align: center;
+}
+
+.social{
+  padding-top: 2em;
+}
+
+#social{
+  text-align: left;
+  width: 50px;
+  display: inline-block;
+}
+
+@media only screen and (min-width: 38em){
+  .box2{
+    margin-right: 1em;
+    padding: 1em;
+  }
+  .box3{
+    margin-right: 1em;
+    padding: 1em;
+  }
+
+}
