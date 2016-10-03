@@ -79,7 +79,7 @@ a:hover{
   color: white;
 }
 
-#contact{
+#contact, #about{
   margin-top: 1em;
 }
 
@@ -106,8 +106,10 @@ footer{
 
 #social{
   text-align: left;
-  width: 50px;
-  display: inline-block;
+  width: 60px;
+  display: inline;
+  text-decoration: none;
+  vertical-align: baseline;
 }
 
 @media only screen and (min-width: 38em){
