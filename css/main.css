@@ -147,6 +147,7 @@ footer{
 .video{
   justify-content: center;
   margin-left: 0 auto;
+  max-width: 500px;
 }
 
 #contact, #about{
