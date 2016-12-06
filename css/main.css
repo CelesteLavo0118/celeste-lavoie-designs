@@ -58,7 +58,7 @@ h2{
   color: white;
 }
 
-footer{
+footer, footer a, footer a:hover{
   text-align: center;
   color: #a0a0a0;
 }
