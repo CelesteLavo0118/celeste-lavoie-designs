@@ -166,6 +166,10 @@ footer{
   align-items: center;
 }
 
+.description{
+  padding: 1em;
+}
+
 @media only screen and (min-width: 38em){
   .box2{
     margin-right: 1em;
@@ -183,4 +187,6 @@ footer{
     max-width: 100%;
     margin: 1em;
   }
+
+
 }
